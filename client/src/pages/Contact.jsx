@@ -96,7 +96,7 @@ const Contact = () => {
       {/* HERO IMAGE */}
       <section>
         <img
-          src="contact.jpg"
+          src="contact.webp"
           alt="Hero"
           className="w-full h-[600px] object-cover"
         />

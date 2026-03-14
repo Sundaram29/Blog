@@ -69,7 +69,7 @@ const Carrers = () => {
       {/* HERO */}
       <section className="relative">
         <img
-          src="carrer.jpg"
+          src="carrer.webp"
           alt="Career"
           className="w-full h-[520px] object-cover"
         />
@@ -157,7 +157,7 @@ const Carrers = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 
           <div className="bg-gray-100">
-            <img src="Learning.jpg" className="w-full h-40 object-cover" />
+            <img src="Learning.webp" className="w-full h-40 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl text-indigo-600 font-semibold">Learning</h3>
               <p className="font-semibold mb-3">that grows with you</p>
@@ -169,7 +169,7 @@ const Carrers = () => {
           </div>
 
           <div className="bg-gray-100">
-            <img src="Leadership.jpg" className="w-full h-40 object-cover" />
+            <img src="Leadership.webp" className="w-full h-40 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl text-indigo-600 font-semibold">Leadership</h3>
               <p className="font-semibold mb-3">starts with opportunity</p>
@@ -181,7 +181,7 @@ const Carrers = () => {
           </div>
 
           <div className="bg-gray-100">
-            <img src="Education.jpg" className="w-full h-40 object-cover" />
+            <img src="Education.webp" className="w-full h-40 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl text-indigo-600 font-semibold">Education</h3>
               <p className="font-semibold mb-3">that opens every door</p>
@@ -193,7 +193,7 @@ const Carrers = () => {
           </div>
 
           <div className="bg-gray-100">
-            <img src="Respect.jpg" className="w-full h-40 object-cover" />
+            <img src="Respect.webp" className="w-full h-40 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl text-indigo-600 font-semibold">Respect</h3>
               <p className="font-semibold mb-3">is built into culture</p>

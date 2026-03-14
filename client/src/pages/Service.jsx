@@ -109,7 +109,7 @@ const Service = () => {
 
         {/* Background Image */}
         <img
-          src="service.jpg"
+          src="service.webp"
           alt="Service"
           className="w-full h-full object-cover"
         />
@@ -187,7 +187,7 @@ const Service = () => {
           {/* Card 1 */}
           <div className="relative">
             <img
-              src="Define2.jpg"
+              src="Define2.webp"
               alt="Talent"
               className="w-full h-[420px] object-cover rounded-xl"
             />
@@ -208,7 +208,7 @@ const Service = () => {
           {/* Card 2 */}
           <div className="relative">
             <img
-              src="Technology.jpg"
+              src="Technology.webp"
               alt="Technology"
               className="w-full h-[420px] object-cover rounded-xl"
             />
@@ -229,7 +229,7 @@ const Service = () => {
           {/* Card 3 */}
           <div className="relative">
             <img
-              src="Capability.jpg"
+              src="Capability.webp"
               alt="Capability"
               className="w-full h-[420px] object-cover rounded-xl"
             />

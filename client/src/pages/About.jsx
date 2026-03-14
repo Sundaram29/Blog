@@ -112,7 +112,7 @@ const About = () => {
       <section className="about-hero relative">
 
         <img
-          src="insight.jpg"
+          src="insight.webp"
           alt="Insight Innovation Impact"
           className="w-full h-[520px] object-cover"
         />
@@ -152,7 +152,7 @@ const About = () => {
         {/* Left Image */}
         <div className="about-approach-image">
           <img
-            src="innovation.jpg"
+            src="innovation.webp"
             alt="Our Approach"
             className="w-full h-[420px] object-cover"
           />
@@ -232,7 +232,7 @@ const About = () => {
           <div className="relative overflow-hidden">
 
             <img
-              src="meet.jpg"
+              src="meet.webp"
               alt="Insights and Analytics"
               className="w-full h-[300px] object-cover"
             />
@@ -256,7 +256,7 @@ const About = () => {
           <div className="relative overflow-hidden">
 
             <img
-              src="tech.jpg"
+              src="tech.webp"
               alt="AI Data Digital"
               className="w-full h-[300px] object-cover"
             />

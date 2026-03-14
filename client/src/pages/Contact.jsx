@@ -246,6 +246,20 @@ const Contact = () => {
 
               </div>
 
+              {/* Checkbox */}
+              <div className="flex items-center gap-2 mb-6">
+                <input
+                  type="checkbox"
+                  required
+                  className="w-5 h-5 cursor-pointer accent-indigo-500 rounded-[5px]"
+                />
+
+                <label className="text-sm text-gray-500 cursor-pointer">
+                  You agree to our <span className="underline">terms</span> and{" "}
+                  <span className="underline">privacy policy</span>.
+                </label>
+              </div>
+
 
               {/* SUBMIT */}
               <button

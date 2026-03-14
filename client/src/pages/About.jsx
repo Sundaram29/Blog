@@ -447,7 +447,7 @@ const About = () => {
               {/* Submit */}
               <button
                 type="submit"
-                className="w-full py-3.5 bg-gradient-to-br from-indigo-500 to-purple-600 text-white rounded-lg text-sm cursor-pointer transition-all hover:-translate-y-0.5 hover:shadow-[0_10px_20px_rgba(99,102,241,0.3)]"
+                className="w-full py-3 bg-indigo-600 text-white rounded-lg cursor-pointer transition-all duration-300 hover:bg-indigo-700 hover:shadow-[0_10px_25px_rgba(79,70,229,0.4)] hover:scale-105"
               >
                 Send message
               </button>
